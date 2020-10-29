@@ -56,5 +56,11 @@
     text-decoration: none;
     border-radius: 50%;
   }
+  
+  .mobile {
+    @media (max-width: 480px) {
+
+    }
+  }
 
 
